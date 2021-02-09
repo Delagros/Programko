@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zaklady_OOP_1", "Zaklady_OOP_1.csproj", "{61600466-D82F-4623-8993-A15787462C53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61600466-D82F-4623-8993-A15787462C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61600466-D82F-4623-8993-A15787462C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61600466-D82F-4623-8993-A15787462C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61600466-D82F-4623-8993-A15787462C53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDABEC31-C665-4E85-AAAE-BC4C62D20787}
+	EndGlobalSection
+EndGlobal
